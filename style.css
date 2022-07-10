@@ -231,10 +231,10 @@ input:checked ~ .bubble::after{
     
 }
 
-@media (max-width: 335px) {
+@media (max-width: 345px) {
     .create-todo .options label {
 
-          background-color: rgb(16, 146, 6);
+          background-color: rgb(146, 6, 6);
     }
     
 

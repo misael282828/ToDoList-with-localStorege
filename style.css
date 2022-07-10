@@ -269,7 +269,7 @@ input:checked ~ .bubble::after{
   
 }
 
-@media (max-width: 325px) {
+@media (max-width: 355px) {
     
     .create-todo .options label {
 

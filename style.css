@@ -261,7 +261,7 @@ input:checked ~ .bubble::after{
 
 
 
-@media (max-width:360px ) {
+@media (max-width:375px ) {
     .create-todo .options label {
 
         background-color: rgb(3, 1, 16);
@@ -290,18 +290,7 @@ div.todo-item .actions .delete{
 }
 
 
-
-
 }
-
-@media (max-width:330px ) {
-    .create-todo .options label {
-
-        background-color: rgb(17, 192, 189);
-  }
-}
-
-
 
 
 .todo-item.done .todo-content input{
